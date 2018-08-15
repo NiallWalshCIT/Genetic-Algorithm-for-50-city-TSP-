@@ -1,1 +1,1 @@
-# Genetic-Algorithm-for-50-city-TSP-
+The following repository contains code to solve for the optiumal solution for a 50 city TSP. Five parameters population size, probability and type of mutation, number of generations and crossover type were evaluated to determine their influence on the GA.
